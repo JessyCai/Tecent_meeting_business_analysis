@@ -1,0 +1,9 @@
+﻿segment,metric_name,year,period,value,unit,yoy_growth_value,yoy_growth_unit,scope_note,can_represent_tencent_meeting,credibility,source_url,notes
+金融科技及企业服务,板块收入,2020,FY2020,1281,亿元,26,%,腾讯财报板块，含支付、理财、云服务、企业SaaS等,否,高,https://static.www.tencent.com/uploads/2021/04/08/960eae1f18dd716fd3a7d704e123d7a5.pdf,不能等同腾讯会议收入
+金融科技及企业服务,板块收入,2021,FY2021,1722,亿元,34,%,腾讯财报板块，含支付、理财、云服务、企业SaaS等,否,高,https://www.tencent.com/zh-cn/investors/financial-news.html,不能等同腾讯会议收入
+金融科技及企业服务,板块收入,2022,FY2022,1771,亿元,3,%,腾讯财报板块，含支付、理财、云服务、企业SaaS等,否,高,https://www.sohu.com/a/657746013_481750,不能等同腾讯会议收入
+金融科技及企业服务,板块收入,2023,FY2023,2038,亿元,15,%,腾讯财报板块，含支付、理财、云服务、企业SaaS等,否,中高,https://www.tencent.com/zh-cn/investors/financial-news.html,需以腾讯2023年报原文复核；不能等同腾讯会议收入
+金融科技及企业服务,板块收入,2024,FY2024,2120,亿元,4,%,腾讯财报板块，含支付、理财、云服务、企业SaaS等,否,高,https://news.qq.com/rain/a/20250321A039YQ00,不能等同腾讯会议收入
+金融科技及企业服务,板块收入,2025,FY2025,2294,亿元,8,%,腾讯财报板块，含支付、理财、云服务、企业SaaS等,否,高,https://static.www.tencent.com/uploads/2026/03/18/559e5d480a4411165e6c7367d61fefbd.pdf,不能等同腾讯会议收入
+腾讯云,云收入估算,2020,FY2020,256,亿元,,,Canalys/第三方推算，非腾讯官方披露,否,中,https://zhuanlan.zhihu.com/p/1888661892089741472,降级为辅助参考，不进入核心结论
+腾讯云,云收入估算,2021,FY2021,423,亿元,,,Canalys/第三方推算，非腾讯官方披露；腾讯2021年后不再单独披露云收入,否,中,https://zhuanlan.zhihu.com/p/1888661892089741472,降级为辅助参考，不进入核心结论

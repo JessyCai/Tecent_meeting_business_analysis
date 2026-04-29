@@ -1,0 +1,34 @@
+﻿company,product,metric_name,year,period,value,unit,fiscal_year_flag,metric_scope,credibility,source_url,notes
+阿里巴巴,钉钉,用户数,2021,FY2021,5,亿人以上,否,累计用户,高,https://m.36kr.com/p/1077988267421577,非MAU，关键节点数据
+阿里巴巴,钉钉,用户数,2022,FY2022,6,亿人以上,否,累计用户,高,https://zhuanlan.zhihu.com/p/594915767,非MAU，关键节点数据
+阿里巴巴,钉钉,用户数,2023,FY2023,7,亿人以上,否,累计用户,高,https://m.thepaper.cn/baijiahao_25947745,非MAU，关键节点数据
+阿里巴巴,钉钉,企业组织数,2021,2021-01,1700,万个以上,否,组织数,高,https://t.cj.sina.com.cn/articles/view/1850460740/6e4bca4402000r5r4,含企业、学校等组织
+阿里巴巴,钉钉,企业组织数,2023,FY2023,2500,万个以上,否,组织数,高,https://m.thepaper.cn/baijiahao_25947745,不是付费企业数
+阿里巴巴,钉钉,软件付费企业数,2023,FY2023,12,万家,否,付费企业,高,https://m.thepaper.cn/baijiahao_25947745,国内竞品商业化对标
+阿里巴巴,钉钉,付费DAU,2023,FY2023,2800,万人,否,付费活跃用户,高,https://m.thepaper.cn/baijiahao_25947745,国内竞品商业化对标
+阿里巴巴,钉钉,ARR,2024,FY2025H1,2,亿美元以上,是,年度经常性收入,高,https://www.ithome.com/0/810/508.htm,阿里2025上半财年，非自然年
+阿里巴巴,钉钉,AI功能使用企业数,2024,2024-01,70,万家,否,使用AI功能企业,高,https://finance.sina.com.cn/roll/2024-01-09/doc-inaawzyc7670602.shtml,AI办公对标
+字节跳动,飞书,ARR,2022,FY2022,1,亿美元,否,年度经常性收入,高,https://www.sohu.com/a/641746974_120440231,非收入确认口径
+字节跳动,飞书,ARR,2023,FY2023,2,亿美元以上,否,年度经常性收入,高,https://www.ithome.com/0/793/391.htm,非收入确认口径
+字节跳动,飞书,ARR,2024,FY2024E,3,亿美元以上,否,年度经常性收入,中高,https://www.ithome.com/0/793/391.htm,预计值
+字节跳动,飞书,MAU,2024,2024-09,600,万人以上,否,月活跃用户,高,https://news.qq.com/rain/a/20240906A07RLW00,单点披露，不画趋势
+Zoom,Zoom,年收入,2021,FY2021,26.51,亿美元,是,财年收入,高,https://news.zoom.com/zoom-video-communications-reports-fourth-quarter-and-fiscal-year-2021-financial-results/,Zoom财年截至1月31日
+Zoom,Zoom,年收入,2022,FY2022,40.99,亿美元,是,财年收入,高,https://news.zoom.com/zoom-video-communications-reports-fourth-quarter-and-fiscal-year-2022-financial-results/,Zoom财年截至1月31日
+Zoom,Zoom,年收入,2023,FY2023,43.93,亿美元,是,财年收入,高,https://investors.zoom.us/financial-information/annual-reports,Zoom财年截至1月31日
+Zoom,Zoom,年收入,2024,FY2024,45.27,亿美元,是,财年收入,高,https://investors.zoom.us/financial-information/annual-reports,Zoom财年截至1月31日
+Zoom,Zoom,年收入,2025,FY2025,46.65,亿美元,是,财年收入,高,https://investors.zoom.us/financial-information/annual-reports,Zoom财年截至1月31日
+Zoom,Zoom,年收入>$100K客户数,2021,FY2021,1645,家,是,大客户数量,高,https://investors.zoom.us/financial-information/annual-reports,建议最终以Zoom官方年报复核
+Zoom,Zoom,年收入>$100K客户数,2022,FY2022,2419,家,是,大客户数量,高,https://investors.zoom.us/financial-information/annual-reports,建议最终以Zoom官方年报复核
+Zoom,Zoom,年收入>$100K客户数,2023,FY2023,3347,家,是,大客户数量,高,https://investors.zoom.us/financial-information/annual-reports,建议最终以Zoom官方年报复核
+Zoom,Zoom,年收入>$100K客户数,2024,FY2024,3528,家,是,大客户数量,高,https://investors.zoom.us/financial-information/annual-reports,建议最终以Zoom官方年报复核
+Zoom,Zoom,年收入>$100K客户数,2025,FY2025,3726,家,是,大客户数量,高,https://investors.zoom.us/financial-information/annual-reports,建议最终以Zoom官方年报复核
+微软,Microsoft Teams,活跃用户,2020,2020-04,7500,万DAU,否,DAU,高,https://www.businessofapps.com/data/microsoft-teams-statistics/,DAU口径，不能与后续MAU直接连线
+微软,Microsoft Teams,活跃用户,2021,2021-04,1.45,亿DAU,否,DAU,高,https://www.businessofapps.com/data/microsoft-teams-statistics/,DAU口径，不能与后续MAU直接连线
+微软,Microsoft Teams,MAU,2022,2022-01,2.7,亿人,否,MAU,高,https://www.businessofapps.com/data/microsoft-teams-statistics/,关键节点
+微软,Microsoft Teams,MAU,2024,2024-01,3.2,亿人,否,MAU,高,https://xtendedview.com/microsoft-teams-statistics/,关键节点
+微软,Microsoft Teams,Teams Premium客户数,2023,2023-10,1,万家,否,付费版客户数,高,https://www.uctoday.com/unified-communications/microsoft-teams-premium-grows-to-10000-customers/,单点披露
+Cisco,Webex,Meetings注册用户,2020,2020-04,3,亿人,否,注册用户,中,https://www.cnbc.com/2020/04/14/cisco-webex-coronavirus-lockdown-demand.html,不连续，不建议主用
+Cisco,Cisco Collaboration,Collaboration板块收入,2020,FY2020,55,亿美元,是,板块收入,高,https://www.cisco.com/c/dam/en_us/about/annual-report/cisco-annual-report-2023.pdf,不是Webex单独收入
+Cisco,Cisco Collaboration,Collaboration板块收入,2021,FY2021,50,亿美元,是,板块收入,高,https://www.cisco.com/c/dam/en_us/about/annual-report/cisco-annual-report-2023.pdf,不是Webex单独收入
+Cisco,Cisco Collaboration,Collaboration板块收入,2022,FY2022,49,亿美元,是,板块收入,高,https://www.cisco.com/c/dam/en_us/about/annual-report/cisco-annual-report-2023.pdf,不是Webex单独收入
+Cisco,Cisco Collaboration,Collaboration板块收入,2023,FY2023,46,亿美元,是,板块收入,高,https://www.cisco.com/c/dam/en_us/about/annual-report/cisco-annual-report-2023.pdf,不是Webex单独收入

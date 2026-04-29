@@ -1,0 +1,12 @@
+﻿metric_category,metric_name,year,period,value,unit,data_type,metric_scope,metric_definition_or_scope_note,credibility,can_plot_trend,use_in_report,source_url,notes
+用户规模,腾讯会议累计用户数,2020,2020-09,1,亿人以上,关键节点,腾讯会议,用户数/累计用户数，非MAU/DAU,高,否,是,https://finance.sina.com.cn/wm/2020-09-14/doc-iivhuipp4331042.shtml,腾讯会议上线245天用户数突破1亿
+用户规模,腾讯会议累计用户数,2021,2021-12,2,亿人以上,关键节点,腾讯会议,用户数/累计用户数，非MAU/DAU,高,否,是,https://www.36kr.com/p/1547105074718725,用户数超过2亿
+用户规模,腾讯会议累计用户数,2022,2022-11,3,亿人以上,关键节点,腾讯会议,用户数/累计用户数，非MAU/DAU,高,否,是,https://news.qq.com/rain/a/20221117A069W400,腾讯2022年Q3财报相关公开报道：用户数超3亿
+用户规模,腾讯会议累计用户数,2023,2023-09,4,亿人以上,关键节点,腾讯会议,用户数/累计用户数，非MAU/DAU,高,否,是,https://www.infoq.cn/article/dVusdTArjZDRQ1dwL8wo,2023腾讯全球数字生态大会披露用户突破4亿
+用户活跃,DAU,2020,2020-02,1000,万人以上,单点数据,腾讯会议,日活跃用户数,高,否,是,https://www.fromgeek.com/daily/1044-344428.html,上线两个月内DAU超过1000万；后续未持续披露
+使用活跃,年度会议场次,2020,FY2020,3,亿场以上,年度单点,腾讯会议,会议场次,高,否,是,https://www.chinanews.com/business/2020/12-25/9371092.shtml,2020年披露会议场次超过3亿场
+使用活跃,年度参会次数,2021,FY2021,40,亿次以上,年度单点,腾讯会议,参会次数，不等于会议场次,高,否,是,https://finance.sina.cn/2021-11-03/detail-iktzqtyu5151120.d.html,过去一年用户参会次数超过40亿次
+平台生态,累计在线协同次数,2023,2023-09,25,亿次以上,关键节点,腾讯会议,累计在线协同次数,高,否,是,https://www.infoq.cn/article/dVusdTArjZDRQ1dwL8wo,自上线以来累计在线协同次数超过25亿次
+平台生态,API日均调用次数,2023,2023-09,1000,万次以上,单点数据,腾讯会议开放平台,API日均调用次数,高,否,是,https://www.infoq.cn/article/dVusdTArjZDRQ1dwL8wo,API日均调用过千万
+AI使用,AI功能月活跃用户数,2024,FY2024,1500,万人,年度单点,腾讯会议AI功能,AI功能MAU，不是整体MAU,高,否,是,https://www.163.com/dy/article/JR3TJ1UD053144S4.html,腾讯财报电话会议相关报道：AI功能MAU 1500万，同比增一倍
+企业生态,基于API打造解决方案的企业,2023,2023-09,3000,家以上,关键节点,腾讯会议开放平台,API生态企业，不是全部企业客户,高,否,是,https://www.infoq.cn/article/dVusdTArjZDRQ1dwL8wo,数千家企业基于腾讯会议API打造解决方案
